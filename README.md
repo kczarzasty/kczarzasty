@@ -1,9 +1,9 @@
-### Hello from historic Philadelphia!
+## Hello from historic Philadelphia!
 
 - Working on multiple Cloud, DevOps & Blockchain projects
 - Learning more about CI/CD, Kubernetes, Ansible, Jenkins
 - Exploring the Ethereum Virtual Machine and Solidity<br>
-## Expertise in:
+### Expertise in:
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow" />
 <img align="left" alt="Networking" src="https://img.shields.io/badge/-Networking-white" />
 <img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-orange" />
@@ -17,7 +17,7 @@
 
 <br>
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kevinczarzasty/)
 
