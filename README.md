@@ -3,7 +3,7 @@
 - Working on multiple Cloud, DevOps & Blockchain projects
 - Learning more about CI/CD, Kubernetes, Ansible, Jenkins
 - Exploring the Ethereum Virtual Machine and Solidity<br>
-### Expertise in:
+### Expertise In:
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow" />
 <img align="left" alt="Networking" src="https://img.shields.io/badge/-Networking-white" />
 <img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-orange" />
@@ -13,14 +13,14 @@
 <img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet" />
 <img align="left" alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-green" /><br>
 
-### Connect with me:
+### Connect With Me:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kevinczarzasty/)
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://kevinczarzasty.medium.com/) 
 <br>
 
-### Blog posts:
+### Recent Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [GitLab: Launching a Static Website & Running Project Pipeline](https://kevinczarzasty.medium.com/gitlab-launching-a-static-website-running-automated-project-pipeline-c969c5786b6d?source=rss-d3ba220c9512------2)
