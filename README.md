@@ -3,6 +3,7 @@
 - Working on multiple Cloud, DevOps & Blockchain projects
 - Learning more about CI/CD, Kubernetes, Ansible, Jenkins
 - Exploring the Ethereum Virtual Machine and Solidity
+
 <br>
 ## Connect with me:
 
