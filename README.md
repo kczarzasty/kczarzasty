@@ -11,8 +11,8 @@
 <img align="left" alt="Python" src="https://img.shields.io/badge/-Python-blue" />
 <img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-9cf" />
 <img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet" />
-<img align="left" alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-green" />
-<br>
+<img align="left" alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-green" /><br>
+
 ### Connect with me:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kevinczarzasty/)
