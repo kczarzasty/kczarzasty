@@ -13,7 +13,6 @@
 <img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet" />
 <img align="left" alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-green" />
 <br>
-<br>
 
 ### Connect with me:
 
