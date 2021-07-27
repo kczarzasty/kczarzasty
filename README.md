@@ -20,7 +20,7 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://kevinczarzasty.medium.com/) 
 <br>
 
-### Recent Medium Posts:
+### Recent Medium Articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [GitLab: Launching a Static Website & Running Project Pipeline](https://kevinczarzasty.medium.com/gitlab-launching-a-static-website-running-automated-project-pipeline-c969c5786b6d?source=rss-d3ba220c9512------2)
