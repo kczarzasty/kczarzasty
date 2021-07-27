@@ -9,7 +9,6 @@
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://kevinczarzasty.medium.com/)
 <br>
-<br>
 ## Expertise in:
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow" />
 <img align="left" alt="Networking" src="https://img.shields.io/badge/-Networking-white" />
