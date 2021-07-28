@@ -1,4 +1,4 @@
-## Hi from Philadelphia.
+## Hello from Philadelphia
 
 - Working on multiple Cloud, DevOps & Blockchain projects
 - Doing more with tools such as Kubernetes, Ansible, Jenkins
