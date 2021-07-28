@@ -1,8 +1,8 @@
-## Hello from historic Philadelphia!
+## Hi from Philadelphia.
 
 - Working on multiple Cloud, DevOps & Blockchain projects
-- Learning more about CI/CD, Kubernetes, Ansible, Jenkins
-- Exploring the Ethereum Virtual Machine and Solidity<br>
+- Doing more with tools such as Kubernetes, Ansible, Jenkins
+- Exploring the Ethereum Virtual Machine and Solidity for fun<br>
 ### Expertise In:
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow" />
 <img align="left" alt="Networking" src="https://img.shields.io/badge/-Networking-white" />
