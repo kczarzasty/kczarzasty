@@ -4,7 +4,7 @@
 - Doing more with tools such as Kubernetes, Ansible, Jenkins
 - Exploring the Ethereum Virtual Machine and Solidity for fun<br>
 ### Expertise in:
-<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow" />
+<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow&?style=flat-square&logo=appveyor" />
 <img align="left" alt="Networking" src="https://img.shields.io/badge/-Networking-white" />
 <img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-orange" />
 <img align="left" alt="DevOps" src="https://img.shields.io/badge/-DevOps-lightgrey" />
