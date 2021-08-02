@@ -11,7 +11,7 @@
 <img align="left" alt="Python" src="https://img.shields.io/badge/-Python-blue"/>
 <img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-9cf"/>
 <img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet"/>
-<img align="left" alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-darkgrey"/><br>
+<img align="left" alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-darkgrey"/>
 <img align="left" alt="GitLab" src="https://img.shields.io/badge/-GitLab-red"/>
 <img align="left" alt="Ansible" src="https://img.shields.io/badge/-Ansible-black"/><br>
 
