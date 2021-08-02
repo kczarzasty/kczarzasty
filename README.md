@@ -4,15 +4,15 @@
 - Doing more with tools such as Kubernetes, Ansible, Jenkins
 - Exploring the Ethereum Virtual Machine and Solidity for fun<br>
 ### Expertise in:
-<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow" />
-<img align="left" alt="Networking" src="https://img.shields.io/badge/-Networking-white" />
-<img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-orange" />
-<img align="left" alt="DevOps" src="https://img.shields.io/badge/-DevOps-lightgrey" />
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-blue" />
-<img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-9cf" />
-<img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet" />
-<img align="left" alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-darkgrey" /><br>
-<img align="left" alt="Ansible" src="https://img.shields.io/badge/-Ansible-black" /><br>
+<img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow"/>
+<img align="left" alt="Networking" src="https://img.shields.io/badge/-Networking-white"/>
+<img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-orange"/>
+<img align="left" alt="DevOps" src="https://img.shields.io/badge/-DevOps-lightgrey"/>
+<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-blue"/>
+<img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-9cf"/>
+<img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet"/>
+<img align="left" alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-darkgrey"/><br>
+<img align="left" alt="Ansible" src="https://img.shields.io/badge/-Ansible-black"/><br>
 
 ### Connect with me:
 
