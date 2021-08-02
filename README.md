@@ -6,7 +6,7 @@
 ### Expertise in:
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow"/>
 <img align="left" alt="Bash" src="https://img.shields.io/badge/-Bash-green"/>
-<img align="left" alt="Networking" src="https://img.shields.io/badge/-Networking-white"/>
+<img align="left" alt="Networking" src="https://img.shields.io/badge/-Networking-grey"/>
 <img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-orange"/>
 <img align="left" alt="Python" src="https://img.shields.io/badge/-Python-blue"/>
 <img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-9cf"/>
