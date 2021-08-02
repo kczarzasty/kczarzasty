@@ -8,12 +8,9 @@
 <img align="left" alt="Bash" src="https://img.shields.io/badge/-Bash-green"/>
 <img align="left" alt="Networking" src="https://img.shields.io/badge/-Networking-white"/>
 <img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-orange"/>
-<img align="left" alt="DevOps" src="https://img.shields.io/badge/-DevOps-lightgrey"/>
 <img align="left" alt="Python" src="https://img.shields.io/badge/-Python-blue"/>
 <img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-9cf"/>
-
 <img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet"/>
-<img align="left" alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-darkgrey"/>
 <img align="left" alt="GitLab" src="https://img.shields.io/badge/-GitLab-red"/>
 <img align="left" alt="Ansible" src="https://img.shields.io/badge/-Ansible-black"/><br>
 
