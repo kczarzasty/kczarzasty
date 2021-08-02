@@ -10,7 +10,8 @@
 <img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-orange"/>
 <img align="left" alt="DevOps" src="https://img.shields.io/badge/-DevOps-lightgrey"/>
 <img align="left" alt="Python" src="https://img.shields.io/badge/-Python-blue"/>
-<img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-9cf"/><br>
+<img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-9cf"/>
+<br>
 <img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet"/>
 <img align="left" alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-darkgrey"/>
 <img align="left" alt="GitLab" src="https://img.shields.io/badge/-GitLab-red"/>
