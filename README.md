@@ -3,7 +3,7 @@
 - Working on multiple Cloud, DevOps, and Blockchain projects
 - Doing more with tools such as Kubernetes, Ansible, and Jenkins
 - Exploring the Ethereum Virtual Machine and Solidity for fun<br>
-### Expertise in:
+### Expertise:
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow"/>
 <img align="left" alt="Bash" src="https://img.shields.io/badge/-Bash-green"/>
 <img align="left" alt="Networking" src="https://img.shields.io/badge/-Networking-lightgrey"/>
@@ -14,14 +14,14 @@
 <img align="left" alt="GitLab" src="https://img.shields.io/badge/-GitLab-red"/>
 <img align="left" alt="Ansible" src="https://img.shields.io/badge/-Ansible-grey"/><br>
 
-### Connect with me:
+### Connect:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kevinczarzasty/)
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://kevinczarzasty.medium.com/) 
 <br>
 
-### Recent articles:
+### Articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Programming in Python to Make a Quiz about Linux & Bash](https://kevinczarzasty.medium.com/programming-in-python-to-make-a-quiz-about-linux-bash-db5ca43f2356?source=rss-d3ba220c9512------2)
