@@ -1,7 +1,7 @@
 ## Hello from Philadelphia
 
-- Working on multiple Cloud, DevOps & Blockchain projects
-- Doing more with tools such as Kubernetes, Ansible, Jenkins
+- Working on multiple Cloud, DevOps, and Blockchain projects
+- Doing more with tools such as Kubernetes, Ansible, and Jenkins
 - Exploring the Ethereum Virtual Machine and Solidity for fun<br>
 ### Expertise in:
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow"/>
