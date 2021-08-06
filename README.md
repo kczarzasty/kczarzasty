@@ -3,6 +3,7 @@
 - Working on multiple Cloud, DevOps, and Blockchain projects
 - Doing more with tools such as Kubernetes, Ansible, and Jenkins
 - Exploring the Ethereum Virtual Machine and Solidity for fun<br>
+#Certified in Amazon Web Services, Linux, and Terraform
 ### Expertise:
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow"/>
 <img align="left" alt="Bash" src="https://img.shields.io/badge/-Bash-green"/>
