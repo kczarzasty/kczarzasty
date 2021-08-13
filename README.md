@@ -26,9 +26,9 @@
 ### Articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a VPC in Terraform with State Stored in S3 & Running CI/CD Pipeline with Jenkins](https://kevinczarzasty.medium.com/deploying-a-vpc-in-terraform-with-state-stored-in-s3-running-ci-cd-pipeline-with-jenkins-7f3e2c9c6477?source=rss-d3ba220c9512------2)
 - [Programming in Python to Make a Quiz about Linux & Bash](https://kevinczarzasty.medium.com/programming-in-python-to-make-a-quiz-about-linux-bash-db5ca43f2356?source=rss-d3ba220c9512------2)
 - [GitLab: Launching a Static Website & Running Project Pipeline](https://kevinczarzasty.medium.com/gitlab-launching-a-static-website-running-automated-project-pipeline-c969c5786b6d?source=rss-d3ba220c9512------2)
 - [Provisioning Amazon EKS Using Terraform Cloud with a Remote Backend](https://kevinczarzasty.medium.com/provisioning-amazon-eks-using-terraform-cloud-with-a-remote-backend-c76c8a006a8f?source=rss-d3ba220c9512------2)
 - [CI/CD: Deploying a Two-Tier AWS Architecture with Terraform Cloud](https://kevinczarzasty.medium.com/ci-cd-deploying-a-two-tier-aws-architecture-with-terraform-cloud-1ec3d22ce7f7?source=rss-d3ba220c9512------2)
-- [Building a Custom EC2 Module with an Amazon Machine Image Using Terraform](https://kevinczarzasty.medium.com/building-a-custom-ec2-module-with-an-amazon-ami-using-terraform-e169d9285a53?source=rss-d3ba220c9512------2)
 <!-- BLOG-POST-LIST:END -->
