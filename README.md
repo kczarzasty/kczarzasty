@@ -12,7 +12,8 @@
 <img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-9cf"/>
 <img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-blueviolet"/>
 <img align="left" alt="GitLab" src="https://img.shields.io/badge/-GitLab-red"/>
-<img align="left" alt="Ansible" src="https://img.shields.io/badge/-Ansible-grey"/><br>
+<img align="left" alt="Ansible" src="https://img.shields.io/badge/-Ansible-grey"/>
+<img align="left" alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-tan"/><br>
 
 ### Connect:
 
