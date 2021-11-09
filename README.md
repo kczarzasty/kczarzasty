@@ -29,7 +29,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Connecting MySQL with Python to Make a Database](https://kevinczarzasty.medium.com/connecting-mysql-with-python-to-make-a-database-752bb2070a84?source=rss-d3ba220c9512------2)
 - [Summarizing ‘The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in…](https://kevinczarzasty.medium.com/summarizing-the-devops-handbook-how-to-create-world-class-agility-reliability-and-security-in-86d8357d9995?source=rss-d3ba220c9512------2)
-- [Deploying a VPC in Terraform with State Stored in S3 & Running CI/CD Pipeline with Jenkins](https://kevinczarzasty.medium.com/deploying-a-vpc-in-terraform-with-state-stored-in-s3-running-ci-cd-pipeline-with-jenkins-7f3e2c9c6477?source=rss-d3ba220c9512------2)
-- [Programming in Python to Make a Quiz about Linux & Bash](https://kevinczarzasty.medium.com/programming-in-python-to-make-a-quiz-about-linux-bash-db5ca43f2356?source=rss-d3ba220c9512------2)
-- [GitLab: Launching a Static Website & Running Project Pipeline](https://kevinczarzasty.medium.com/gitlab-launching-a-static-website-running-automated-project-pipeline-c969c5786b6d?source=rss-d3ba220c9512------2)
+- [Deploying a VPC in Terraform with State Stored in S3 &amp; Running CI/CD Pipeline with Jenkins](https://kevinczarzasty.medium.com/deploying-a-vpc-in-terraform-with-state-stored-in-s3-running-ci-cd-pipeline-with-jenkins-7f3e2c9c6477?source=rss-d3ba220c9512------2)
+- [Programming in Python to Make a Quiz about Linux &amp; Bash](https://kevinczarzasty.medium.com/programming-in-python-to-make-a-quiz-about-linux-bash-db5ca43f2356?source=rss-d3ba220c9512------2)
+- [GitLab: Launching a Static Website &amp; Running Project Pipeline](https://kevinczarzasty.medium.com/gitlab-launching-a-static-website-running-automated-project-pipeline-c969c5786b6d?source=rss-d3ba220c9512------2)
 <!-- BLOG-POST-LIST:END -->
