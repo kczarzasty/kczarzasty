@@ -2,7 +2,7 @@
 
 - Working on multiple Cloud, DevOps, and Blockchain projects
 - Doing more with tools such as Ansible, Jenkins, and Kubernetes
-- Exploring the Ethereum Virtual Machine and Solidity for fun<br>
+- Avalanche, Ethereum Virtual Machine and Solidity for fun<br>
 ### Expertise:
 <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-yellow"/>
 <img align="left" alt="Bash" src="https://img.shields.io/badge/-Bash-green"/>
